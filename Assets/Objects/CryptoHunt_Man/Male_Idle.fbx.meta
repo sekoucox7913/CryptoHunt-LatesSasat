@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: ec0c34172ed79a34eb169f0af5cbe6d4
+timeCreated: 1518787863
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Retop:Shotgun:Retop:Hands:Group13980
+    100004: Retop:Shotgun:Retop:Hands:Head
+    100006: Retop:Shotgun:Retop:Hands:HeadTop_End
+    100008: Retop:Shotgun:Retop:Hands:Hips
+    100010: Retop:Shotgun:Retop:Hands:LeftArm
+    100012: Retop:Shotgun:Retop:Hands:LeftFoot
+    100014: Retop:Shotgun:Retop:Hands:LeftForeArm
+    100016: Retop:Shotgun:Retop:Hands:LeftHand
+    100018: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+    100020: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+    100022: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+    100024: Retop:Shotgun:Retop:Hands:LeftHandIndex4
+    100026: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+    100028: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+    100030: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+    100032: Retop:Shotgun:Retop:Hands:LeftHandMiddle4
+    100034: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+    100036: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+    100038: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+    100040: Retop:Shotgun:Retop:Hands:LeftHandPinky4
+    100042: Retop:Shotgun:Retop:Hands:LeftHandRing1
+    100044: Retop:Shotgun:Retop:Hands:LeftHandRing2
+    100046: Retop:Shotgun:Retop:Hands:LeftHandRing3
+    100048: Retop:Shotgun:Retop:Hands:LeftHandRing4
+    100050: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+    100052: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+    100054: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+    100056: Retop:Shotgun:Retop:Hands:LeftHandThumb4
+    100058: Retop:Shotgun:Retop:Hands:LeftLeg
+    100060: Retop:Shotgun:Retop:Hands:LeftShoulder
+    100062: Retop:Shotgun:Retop:Hands:LeftToe_End
+    100064: Retop:Shotgun:Retop:Hands:LeftToeBase
+    100066: Retop:Shotgun:Retop:Hands:LeftUpLeg
+    100068: Retop:Shotgun:Retop:Hands:Neck
+    100070: Retop:Shotgun:Retop:Hands:RightArm
+    100072: Retop:Shotgun:Retop:Hands:RightFoot
+    100074: Retop:Shotgun:Retop:Hands:RightForeArm
+    100076: Retop:Shotgun:Retop:Hands:RightHand
+    100078: Retop:Shotgun:Retop:Hands:RightHandIndex1
+    100080: Retop:Shotgun:Retop:Hands:RightHandIndex2
+    100082: Retop:Shotgun:Retop:Hands:RightHandIndex3
+    100084: Retop:Shotgun:Retop:Hands:RightHandIndex4
+    100086: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+    100088: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+    100090: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+    100092: Retop:Shotgun:Retop:Hands:RightHandMiddle4
+    100094: Retop:Shotgun:Retop:Hands:RightHandPinky1
+    100096: Retop:Shotgun:Retop:Hands:RightHandPinky2
+    100098: Retop:Shotgun:Retop:Hands:RightHandPinky3
+    100100: Retop:Shotgun:Retop:Hands:RightHandPinky4
+    100102: Retop:Shotgun:Retop:Hands:RightHandRing1
+    100104: Retop:Shotgun:Retop:Hands:RightHandRing2
+    100106: Retop:Shotgun:Retop:Hands:RightHandRing3
+    100108: Retop:Shotgun:Retop:Hands:RightHandRing4
+    100110: Retop:Shotgun:Retop:Hands:RightHandThumb1
+    100112: Retop:Shotgun:Retop:Hands:RightHandThumb2
+    100114: Retop:Shotgun:Retop:Hands:RightHandThumb3
+    100116: Retop:Shotgun:Retop:Hands:RightHandThumb4
+    100118: Retop:Shotgun:Retop:Hands:RightLeg
+    100120: Retop:Shotgun:Retop:Hands:RightShoulder
+    100122: Retop:Shotgun:Retop:Hands:RightToe_End
+    100124: Retop:Shotgun:Retop:Hands:RightToeBase
+    100126: Retop:Shotgun:Retop:Hands:RightUpLeg
+    100128: Retop:Shotgun:Retop:Hands:Spine
+    100130: Retop:Shotgun:Retop:Hands:Spine1
+    100132: Retop:Shotgun:Retop:Hands:Spine2
+    400000: //RootNode
+    400002: Retop:Shotgun:Retop:Hands:Group13980
+    400004: Retop:Shotgun:Retop:Hands:Head
+    400006: Retop:Shotgun:Retop:Hands:HeadTop_End
+    400008: Retop:Shotgun:Retop:Hands:Hips
+    400010: Retop:Shotgun:Retop:Hands:LeftArm
+    400012: Retop:Shotgun:Retop:Hands:LeftFoot
+    400014: Retop:Shotgun:Retop:Hands:LeftForeArm
+    400016: Retop:Shotgun:Retop:Hands:LeftHand
+    400018: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+    400020: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+    400022: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+    400024: Retop:Shotgun:Retop:Hands:LeftHandIndex4
+    400026: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+    400028: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+    400030: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+    400032: Retop:Shotgun:Retop:Hands:LeftHandMiddle4
+    400034: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+    400036: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+    400038: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+    400040: Retop:Shotgun:Retop:Hands:LeftHandPinky4
+    400042: Retop:Shotgun:Retop:Hands:LeftHandRing1
+    400044: Retop:Shotgun:Retop:Hands:LeftHandRing2
+    400046: Retop:Shotgun:Retop:Hands:LeftHandRing3
+    400048: Retop:Shotgun:Retop:Hands:LeftHandRing4
+    400050: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+    400052: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+    400054: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+    400056: Retop:Shotgun:Retop:Hands:LeftHandThumb4
+    400058: Retop:Shotgun:Retop:Hands:LeftLeg
+    400060: Retop:Shotgun:Retop:Hands:LeftShoulder
+    400062: Retop:Shotgun:Retop:Hands:LeftToe_End
+    400064: Retop:Shotgun:Retop:Hands:LeftToeBase
+    400066: Retop:Shotgun:Retop:Hands:LeftUpLeg
+    400068: Retop:Shotgun:Retop:Hands:Neck
+    400070: Retop:Shotgun:Retop:Hands:RightArm
+    400072: Retop:Shotgun:Retop:Hands:RightFoot
+    400074: Retop:Shotgun:Retop:Hands:RightForeArm
+    400076: Retop:Shotgun:Retop:Hands:RightHand
+    400078: Retop:Shotgun:Retop:Hands:RightHandIndex1
+    400080: Retop:Shotgun:Retop:Hands:RightHandIndex2
+    400082: Retop:Shotgun:Retop:Hands:RightHandIndex3
+    400084: Retop:Shotgun:Retop:Hands:RightHandIndex4
+    400086: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+    400088: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+    400090: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+    400092: Retop:Shotgun:Retop:Hands:RightHandMiddle4
+    400094: Retop:Shotgun:Retop:Hands:RightHandPinky1
+    400096: Retop:Shotgun:Retop:Hands:RightHandPinky2
+    400098: Retop:Shotgun:Retop:Hands:RightHandPinky3
+    400100: Retop:Shotgun:Retop:Hands:RightHandPinky4
+    400102: Retop:Shotgun:Retop:Hands:RightHandRing1
+    400104: Retop:Shotgun:Retop:Hands:RightHandRing2
+    400106: Retop:Shotgun:Retop:Hands:RightHandRing3
+    400108: Retop:Shotgun:Retop:Hands:RightHandRing4
+    400110: Retop:Shotgun:Retop:Hands:RightHandThumb1
+    400112: Retop:Shotgun:Retop:Hands:RightHandThumb2
+    400114: Retop:Shotgun:Retop:Hands:RightHandThumb3
+    400116: Retop:Shotgun:Retop:Hands:RightHandThumb4
+    400118: Retop:Shotgun:Retop:Hands:RightLeg
+    400120: Retop:Shotgun:Retop:Hands:RightShoulder
+    400122: Retop:Shotgun:Retop:Hands:RightToe_End
+    400124: Retop:Shotgun:Retop:Hands:RightToeBase
+    400126: Retop:Shotgun:Retop:Hands:RightUpLeg
+    400128: Retop:Shotgun:Retop:Hands:Spine
+    400130: Retop:Shotgun:Retop:Hands:Spine1
+    400132: Retop:Shotgun:Retop:Hands:Spine2
+    4300000: Retop:Shotgun:Retop:Hands:Group13980
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Retop:Shotgun:Retop:Hands:Group13980
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Retop_Shotgun_defaultMat1
+    second: {fileID: 2100000, guid: 546f3c05eeb445d429ff7913b7bb7825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 15cc79178d2f0ab43b34160d963ac160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 69c62b299cf931d4ba45367719df061a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Retop:Shotgun:Retop:Hands:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Retop:Shotgun:Retop:Hands:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Male_Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:Group13980
+      parentName: Male_Idle(Clone)
+      position: {x: -0, y: 0, z: 0.08565372}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6738015, y: 0.69317585, z: 0.6738015}
+    - name: Retop:Shotgun:Retop:Hands:Hips
+      parentName: Male_Idle(Clone)
+      position: {x: 0.000000007450581, y: 1.480792, z: 0.0089091165}
+      rotation: {x: -0.0000000010798367, y: 0.000000017277404, z: -5.2482807e-10,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Retop:Shotgun:Retop:Hands:LeftUpLeg
+      parentName: Retop:Shotgun:Retop:Hands:Hips
+      position: {x: -0.12554504, y: -0.07255279, z: 0.0065477844}
+      rotation: {x: -0.00014116235, y: 0.004439898, z: 0.99948514, w: 0.03177663}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:LeftLeg
+      parentName: Retop:Shotgun:Retop:Hands:LeftUpLeg
+      position: {x: -5.4362476e-10, y: 0.6140385, z: -6.586127e-11}
+      rotation: {x: -0.061985545, y: -0.00046238, z: 0.007445124, w: 0.9980492}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftFoot
+      parentName: Retop:Shotgun:Retop:Hands:LeftLeg
+      position: {x: -8.147792e-10, y: 0.61139584, z: 3.8091588e-10}
+      rotation: {x: 0.5220399, y: 0.017448459, z: -0.010682609, w: 0.8526757}
+      scale: {x: 1.000001, y: 1.0000007, z: 0.99999994}
+    - name: Retop:Shotgun:Retop:Hands:LeftToeBase
+      parentName: Retop:Shotgun:Retop:Hands:LeftFoot
+      position: {x: 4.153442e-11, y: 0.26801994, z: 6.576454e-10}
+      rotation: {x: 0.29965237, y: 0.04132664, z: -0.012993423, w: 0.95306444}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000005}
+    - name: Retop:Shotgun:Retop:Hands:LeftToe_End
+      parentName: Retop:Shotgun:Retop:Hands:LeftToeBase
+      position: {x: 1.4240449e-10, y: 0.10985655, z: -5.0428935e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:Spine
+      parentName: Retop:Shotgun:Retop:Hands:Hips
+      position: {x: -0, y: 0.13078614, z: -0.0073948666}
+      rotation: {x: -0.02823699, y: -0.000000008620439, z: -7.685498e-10, w: 0.99960124}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Retop:Shotgun:Retop:Hands:Spine1
+      parentName: Retop:Shotgun:Retop:Hands:Spine
+      position: {x: -0, y: 0.15282747, z: 7.309637e-11}
+      rotation: {x: 0.0000000055879354, y: -0.000000025897005, z: -0.0000000010700087,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:Spine2
+      parentName: Retop:Shotgun:Retop:Hands:Spine1
+      position: {x: -0, y: 0.17466024, z: 2.820915e-10}
+      rotation: {x: 0.0000000037252903, y: 0.000000043065377, z: 0.0000000034863183,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightShoulder
+      parentName: Retop:Shotgun:Retop:Hands:Spine2
+      position: {x: 0.09215494, y: 0.16555189, z: -0.0014022733}
+      rotation: {x: -0.56941617, y: -0.41634977, z: 0.578123, w: -0.41011208}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightArm
+      parentName: Retop:Shotgun:Retop:Hands:RightShoulder
+      position: {x: -8.997006e-11, y: 0.1947568, z: -0.0000000011136205}
+      rotation: {x: -0.13074479, y: 0.0086331675, z: -0.0056593423, w: 0.99136233}
+      scale: {x: 1, y: 1.0000007, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:RightForeArm
+      parentName: Retop:Shotgun:Retop:Hands:RightArm
+      position: {x: -0.0000000019832458, y: 0.35651302, z: -0.000000011353094}
+      rotation: {x: 0.026133414, y: 0.016514422, z: -0.04647264, w: -0.99844116}
+      scale: {x: 1.0000005, y: 1.0000014, z: 1.0000008}
+    - name: Retop:Shotgun:Retop:Hands:RightHand
+      parentName: Retop:Shotgun:Retop:Hands:RightForeArm
+      position: {x: 1.5898795e-10, y: 0.38171163, z: -8.118008e-11}
+      rotation: {x: -0.09109407, y: 0.094899915, z: 0.10208859, w: -0.98603946}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+    - name: Retop:Shotgun:Retop:Hands:RightHandIndex1
+      parentName: Retop:Shotgun:Retop:Hands:RightHand
+      position: {x: -0.05563164, y: 0.13288882, z: -0.0044387295}
+      rotation: {x: -0.064414285, y: -0.011370167, z: -0.09628308, w: -0.99320245}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:RightHandIndex2
+      parentName: Retop:Shotgun:Retop:Hands:RightHandIndex1
+      position: {x: 0.000069371476, y: 0.04740944, z: 2.2489871e-10}
+      rotation: {x: 0.04121198, y: 0.000003536231, z: -0.00013770486, w: 0.99915045}
+      scale: {x: 0.9999992, y: 0.9999991, z: 0.9999997}
+    - name: Retop:Shotgun:Retop:Hands:RightHandIndex3
+      parentName: Retop:Shotgun:Retop:Hands:RightHandIndex2
+      position: {x: -0.000022099523, y: 0.04751954, z: -0.000000004129184}
+      rotation: {x: 0.0061996644, y: 0.000000033175876, z: 0.00000013907392, w: 0.9999808}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Retop:Shotgun:Retop:Hands:RightHandIndex4
+      parentName: Retop:Shotgun:Retop:Hands:RightHandIndex3
+      position: {x: -0.000047264475, y: 0.042182636, z: -1.8720726e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+      parentName: Retop:Shotgun:Retop:Hands:RightHand
+      position: {x: -0.02106967, y: 0.15940878, z: -0.0028583829}
+      rotation: {x: 0.073068395, y: 0.003997728, z: 0.057328787, w: 0.9956699}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+      parentName: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+      position: {x: -0.00003424063, y: 0.046674863, z: -0.0000000013123264}
+      rotation: {x: 0.039436623, y: -0.000008573287, z: 0.0002875167, w: 0.99922204}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999998}
+    - name: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+      parentName: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+      position: {x: 0.000014815227, y: 0.04188088, z: -0.000000002246585}
+      rotation: {x: 0.018850653, y: 0.00000004451699, z: -0.00000001502732, w: 0.9998224}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.000001}
+    - name: Retop:Shotgun:Retop:Hands:RightHandMiddle4
+      parentName: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+      position: {x: 0.000019425437, y: 0.036887895, z: 0.0000000012174561}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightHandRing1
+      parentName: Retop:Shotgun:Retop:Hands:RightHand
+      position: {x: 0.020096641, y: 0.14877963, z: -0.0050172997}
+      rotation: {x: 0.04670717, y: -0.008440003, z: 0.005972242, w: 0.9988551}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:RightHandRing2
+      parentName: Retop:Shotgun:Retop:Hands:RightHandRing1
+      position: {x: -0.00022363836, y: 0.044452194, z: -0.0000000020174127}
+      rotation: {x: 0.04130629, y: -0.0000073146057, z: 0.00020933377, w: 0.9991465}
+      scale: {x: 0.9999995, y: 0.9999991, z: 0.9999996}
+    - name: Retop:Shotgun:Retop:Hands:RightHandRing3
+      parentName: Retop:Shotgun:Retop:Hands:RightHandRing2
+      position: {x: 0.000028483864, y: 0.044301108, z: 0.0000000014948444}
+      rotation: {x: 0.035091527, y: 0.00000034282039, z: 0.00000049851513, w: 0.9993841}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:RightHandRing4
+      parentName: Retop:Shotgun:Retop:Hands:RightHandRing3
+      position: {x: 0.0001951527, y: 0.037113138, z: 7.6183365e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightHandPinky1
+      parentName: Retop:Shotgun:Retop:Hands:RightHand
+      position: {x: 0.05660467, y: 0.14416327, z: -0.0036689031}
+      rotation: {x: 0.0454394, y: -0.014219101, z: 0.005296396, w: 0.99885184}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000004}
+    - name: Retop:Shotgun:Retop:Hands:RightHandPinky2
+      parentName: Retop:Shotgun:Retop:Hands:RightHandPinky1
+      position: {x: -0.00031666245, y: 0.040507954, z: -0.0000000010983444}
+      rotation: {x: 0.03972286, y: -0.00009411294, z: 0.002494665, w: 0.9992076}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:RightHandPinky3
+      parentName: Retop:Shotgun:Retop:Hands:RightHandPinky2
+      position: {x: 0.00008585351, y: 0.032655034, z: 0.0000000018925512}
+      rotation: {x: 0.040599395, y: 0.000106265055, z: 0.0009612373, w: 0.9991751}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightHandPinky4
+      parentName: Retop:Shotgun:Retop:Hands:RightHandPinky3
+      position: {x: 0.00023080915, y: 0.026457803, z: 3.8278528e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightHandThumb1
+      parentName: Retop:Shotgun:Retop:Hands:RightHand
+      position: {x: -0.039403114, y: 0.030524628, z: 0.01700039}
+      rotation: {x: -0.15014876, y: -0.066230066, z: -0.39810747, w: -0.90254056}
+      scale: {x: 0.9999999, y: 1.0000008, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:RightHandThumb2
+      parentName: Retop:Shotgun:Retop:Hands:RightHandThumb1
+      position: {x: -0.0032198755, y: 0.042007037, z: 6.225309e-10}
+      rotation: {x: 0.03693661, y: -0.004642913, z: 0.01662658, w: 0.9991685}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightHandThumb3
+      parentName: Retop:Shotgun:Retop:Hands:RightHandThumb2
+      position: {x: -0.0015172337, y: 0.051724024, z: 0.000000003070765}
+      rotation: {x: -0.031822324, y: -0.0025408904, z: 0.044938553, w: 0.99847955}
+      scale: {x: 1, y: 0.9999995, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightHandThumb4
+      parentName: Retop:Shotgun:Retop:Hands:RightHandThumb3
+      position: {x: 0.0047371075, y: 0.046821196, z: 0.0000000011974108}
+      rotation: {x: -1.0492162e-11, y: -3.6933963e-12, z: 6.046691e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:Neck
+      parentName: Retop:Shotgun:Retop:Hands:Spine2
+      position: {x: -0, y: 0.19649254, z: -0.000000010818072}
+      rotation: {x: 0.028236985, y: -0.000000034559545, z: -3.1994965e-10, w: 0.99960124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:Head
+      parentName: Retop:Shotgun:Retop:Hands:Neck
+      position: {x: -0, y: 0.112667695, z: 0.05885123}
+      rotation: {x: -0.0000000107983675, y: 0.000000017277404, z: -0.0000000020993123,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: Retop:Shotgun:Retop:Hands:HeadTop_End
+      parentName: Retop:Shotgun:Retop:Hands:Head
+      position: {x: -0, y: 0.31604338, z: 0.16508316}
+      rotation: {x: 6.938894e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftShoulder
+      parentName: Retop:Shotgun:Retop:Hands:Spine2
+      position: {x: -0.09215494, y: 0.16559103, z: -0.0020943985}
+      rotation: {x: 0.5671574, y: -0.41800487, z: 0.58016545, w: 0.40867162}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:LeftArm
+      parentName: Retop:Shotgun:Retop:Hands:LeftShoulder
+      position: {x: 4.3084113e-11, y: 0.1947568, z: -0.0000000011164181}
+      rotation: {x: -0.13021982, y: -0.007962763, z: 0.0061758463, w: 0.9914339}
+      scale: {x: 1.0000004, y: 0.9999998, z: 0.99999994}
+    - name: Retop:Shotgun:Retop:Hands:LeftForeArm
+      parentName: Retop:Shotgun:Retop:Hands:LeftArm
+      position: {x: 0.0000000071879915, y: 0.35627085, z: -0.0000000058818452}
+      rotation: {x: -0.026576206, y: 0.016040187, z: -0.045625586, w: 0.9984762}
+      scale: {x: 1, y: 1.0000005, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftHand
+      parentName: Retop:Shotgun:Retop:Hands:LeftForeArm
+      position: {x: 0.00000000283274, y: 0.38140902, z: -0.0000000017193565}
+      rotation: {x: 0.09067014, y: 0.08738303, z: 0.09586106, w: 0.9873975}
+      scale: {x: 1.0000005, y: 1.0000014, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+      parentName: Retop:Shotgun:Retop:Hands:LeftHand
+      position: {x: 0.018120643, y: 0.14745773, z: -0.0026600417}
+      rotation: {x: 0.05160746, y: -0.0029405504, z: -0.056810968, w: 0.99704593}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000005}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+      position: {x: -0.00012649181, y: 0.04952406, z: 0.0000000024550266}
+      rotation: {x: 0.037927195, y: -0.000054392964, z: 0.0012251268, w: 0.9992798}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000008}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+      position: {x: 0.0000528573, y: 0.047153685, z: 9.833016e-10}
+      rotation: {x: 0.0205911, y: 0.000000051239994, z: 0.0000001807864, w: 0.999788}
+      scale: {x: 1.0000006, y: 1.0000013, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandMiddle4
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+      position: {x: 0.000073634255, y: 0.04113061, z: -2.449454e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandRing1
+      parentName: Retop:Shotgun:Retop:Hands:LeftHand
+      position: {x: -0.02185637, y: 0.15213482, z: -0.003291173}
+      rotation: {x: 0.05711752, y: 0.0018844306, z: -0.0119456975, w: 0.99829423}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999964}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandRing2
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandRing1
+      position: {x: 0.00007724679, y: 0.042532537, z: 1.5313902e-10}
+      rotation: {x: 0.040394567, y: 0.000013551324, z: -0.00046754652, w: 0.9991838}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000006}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandRing3
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandRing2
+      position: {x: -0.000029801802, y: 0.0431821, z: 8.5001317e-10}
+      rotation: {x: 0.015613992, y: -0.000000096549904, z: 0.00000012623407, w: 0.99987817}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000007}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandRing4
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandRing3
+      position: {x: -0.000047447214, y: 0.037154548, z: -0.0000000015794649}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+      parentName: Retop:Shotgun:Retop:Hands:LeftHand
+      position: {x: -0.054725155, y: 0.14377068, z: -0.0051776543}
+      rotation: {x: 0.050178, y: 0.019442173, z: -0.01214896, w: 0.99847716}
+      scale: {x: 1, y: 1, z: 0.99999976}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+      position: {x: -0.000022661086, y: 0.03912521, z: 0.0000000010770137}
+      rotation: {x: 0.015784545, y: -0.00000022631136, z: -0.000000028405335, w: 0.9998755}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+      position: {x: -0.00007886789, y: 0.03301467, z: -0.0000000017102891}
+      rotation: {x: -0.041174445, y: -0.0000036331437, z: 0.0003894079, w: 0.99915195}
+      scale: {x: 1, y: 1.0000006, z: 1.0000007}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandPinky4
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+      position: {x: 0.00010152957, y: 0.027030393, z: 4.3269863e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+      parentName: Retop:Shotgun:Retop:Hands:LeftHand
+      position: {x: 0.043466143, y: 0.032276776, z: 0.018441191}
+      rotation: {x: 0.15191154, y: -0.063905224, z: -0.38245904, w: 0.90915567}
+      scale: {x: 0.9999999, y: 0.9999995, z: 0.9999998}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+      position: {x: 0.0058577377, y: 0.045378838, z: -1.8039373e-10}
+      rotation: {x: 0.033904944, y: 0.0059617315, z: -0.040496383, w: 0.9985865}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000005}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+      position: {x: 0.00071682927, y: 0.048462257, z: -8.3260544e-11}
+      rotation: {x: -0.026704252, y: 0.004079283, z: -0.05860741, w: 0.99791557}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000012}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandThumb4
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+      position: {x: -0.0065745795, y: 0.041728362, z: 4.113616e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+      parentName: Retop:Shotgun:Retop:Hands:LeftHand
+      position: {x: 0.05846087, y: 0.13968606, z: -0.0032788077}
+      rotation: {x: 0.062427834, y: -0.010711394, z: -0.09808483, w: 0.9931603}
+      scale: {x: 0.9999993, y: 0.9999988, z: 0.99999917}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+      position: {x: -0.00011325323, y: 0.045249462, z: 0.0000000018474113}
+      rotation: {x: 0.04006203, y: 0.00003787876, z: 0.0016127746, w: 0.9991959}
+      scale: {x: 1.0000004, y: 1, z: 0.9999999}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+      position: {x: 0.00022241994, y: 0.044237632, z: 0.0000000014554126}
+      rotation: {x: -0.039827675, y: -0.000035448033, z: -0.0018776259, w: 0.9992048}
+      scale: {x: 1, y: 0.99999964, z: 1.0000005}
+    - name: Retop:Shotgun:Retop:Hands:LeftHandIndex4
+      parentName: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+      position: {x: -0.000109170775, y: 0.036334295, z: 0.0000000025327005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightUpLeg
+      parentName: Retop:Shotgun:Retop:Hands:Hips
+      position: {x: 0.12554504, y: -0.07255279, z: 0.008282089}
+      rotation: {x: 0.000064765925, y: 0.0020375901, z: 0.9994929, w: -0.031777866}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightLeg
+      parentName: Retop:Shotgun:Retop:Hands:RightUpLeg
+      position: {x: 0.0000000014789795, y: 0.61401945, z: 1.3511059e-11}
+      rotation: {x: -0.055282276, y: 0.00041328152, z: -0.007464111, w: 0.99844277}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1}
+    - name: Retop:Shotgun:Retop:Hands:RightFoot
+      parentName: Retop:Shotgun:Retop:Hands:RightLeg
+      position: {x: 0.000000001194935, y: 0.61081165, z: -5.5162833e-11}
+      rotation: {x: 0.5136999, y: -0.018126832, z: 0.01085653, w: 0.85770977}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000001}
+    - name: Retop:Shotgun:Retop:Hands:RightToeBase
+      parentName: Retop:Shotgun:Retop:Hands:RightFoot
+      position: {x: -0.0000000017489916, y: 0.26371908, z: -0.0000000012589089}
+      rotation: {x: 0.30510214, y: -0.041523345, z: 0.013317093, w: 0.9513208}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Retop:Shotgun:Retop:Hands:RightToe_End
+      parentName: Retop:Shotgun:Retop:Hands:RightToeBase
+      position: {x: 5.456023e-11, y: 0.10716204, z: -9.633841e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 2ec2382e6c0c1d24cb3ff411d593745a
+timeCreated: 1518787863
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface1
+    100004: polySurface2
+    100006: Retop:Hands:Group13980
+    100008: Retop:Head:Head:Group26144
+    100010: Retop:Head:Head:Head:Head:polySurface2
+    100012: Retop:Head:pSphere1
+    100014: Retop:Shotgun:Group13980
+    100016: Retop:Shotgun:Group8
+    100018: Retop:Shotgun:pSphere1
+    100020: Retop:Shotgun:Retop:Hands:Group13980
+    100022: Retop:Shotgun:Retop:Hands:Head
+    100024: Retop:Shotgun:Retop:Hands:HeadTop_End
+    100026: Retop:Shotgun:Retop:Hands:Hips
+    100028: Retop:Shotgun:Retop:Hands:LeftArm
+    100030: Retop:Shotgun:Retop:Hands:LeftFoot
+    100032: Retop:Shotgun:Retop:Hands:LeftForeArm
+    100034: Retop:Shotgun:Retop:Hands:LeftHand
+    100036: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+    100038: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+    100040: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+    100042: Retop:Shotgun:Retop:Hands:LeftHandIndex4
+    100044: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+    100046: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+    100048: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+    100050: Retop:Shotgun:Retop:Hands:LeftHandMiddle4
+    100052: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+    100054: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+    100056: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+    100058: Retop:Shotgun:Retop:Hands:LeftHandPinky4
+    100060: Retop:Shotgun:Retop:Hands:LeftHandRing1
+    100062: Retop:Shotgun:Retop:Hands:LeftHandRing2
+    100064: Retop:Shotgun:Retop:Hands:LeftHandRing3
+    100066: Retop:Shotgun:Retop:Hands:LeftHandRing4
+    100068: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+    100070: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+    100072: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+    100074: Retop:Shotgun:Retop:Hands:LeftHandThumb4
+    100076: Retop:Shotgun:Retop:Hands:LeftLeg
+    100078: Retop:Shotgun:Retop:Hands:LeftShoulder
+    100080: Retop:Shotgun:Retop:Hands:LeftToe_End
+    100082: Retop:Shotgun:Retop:Hands:LeftToeBase
+    100084: Retop:Shotgun:Retop:Hands:LeftUpLeg
+    100086: Retop:Shotgun:Retop:Hands:Neck
+    100088: Retop:Shotgun:Retop:Hands:RightArm
+    100090: Retop:Shotgun:Retop:Hands:RightFoot
+    100092: Retop:Shotgun:Retop:Hands:RightForeArm
+    100094: Retop:Shotgun:Retop:Hands:RightHand
+    100096: Retop:Shotgun:Retop:Hands:RightHandIndex1
+    100098: Retop:Shotgun:Retop:Hands:RightHandIndex2
+    100100: Retop:Shotgun:Retop:Hands:RightHandIndex3
+    100102: Retop:Shotgun:Retop:Hands:RightHandIndex4
+    100104: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+    100106: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+    100108: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+    100110: Retop:Shotgun:Retop:Hands:RightHandMiddle4
+    100112: Retop:Shotgun:Retop:Hands:RightHandPinky1
+    100114: Retop:Shotgun:Retop:Hands:RightHandPinky2
+    100116: Retop:Shotgun:Retop:Hands:RightHandPinky3
+    100118: Retop:Shotgun:Retop:Hands:RightHandPinky4
+    100120: Retop:Shotgun:Retop:Hands:RightHandRing1
+    100122: Retop:Shotgun:Retop:Hands:RightHandRing2
+    100124: Retop:Shotgun:Retop:Hands:RightHandRing3
+    100126: Retop:Shotgun:Retop:Hands:RightHandRing4
+    100128: Retop:Shotgun:Retop:Hands:RightHandThumb1
+    100130: Retop:Shotgun:Retop:Hands:RightHandThumb2
+    100132: Retop:Shotgun:Retop:Hands:RightHandThumb3
+    100134: Retop:Shotgun:Retop:Hands:RightHandThumb4
+    100136: Retop:Shotgun:Retop:Hands:RightLeg
+    100138: Retop:Shotgun:Retop:Hands:RightShoulder
+    100140: Retop:Shotgun:Retop:Hands:RightToe_End
+    100142: Retop:Shotgun:Retop:Hands:RightToeBase
+    100144: Retop:Shotgun:Retop:Hands:RightUpLeg
+    100146: Retop:Shotgun:Retop:Hands:Spine
+    100148: Retop:Shotgun:Retop:Hands:Spine1
+    100150: Retop:Shotgun:Retop:Hands:Spine2
+    100152: Retop:Shotgun:Retop:Hands:transform1
+    100154: Retop:Shotgun:Retop:Hands:transform10
+    100156: Retop:Shotgun:Retop:Hands:transform11
+    100158: Retop:Shotgun:Retop:Hands:transform2
+    100160: Retop:Shotgun:Retop:Hands:transform3
+    100162: Retop:Shotgun:Retop:Hands:transform4
+    100164: Retop:Shotgun:Retop:Hands:transform5
+    100166: Retop:Shotgun:Retop:Hands:transform6
+    100168: Retop:Shotgun:Retop:Hands:transform7
+    100170: Retop:Shotgun:Retop:Hands:transform8
+    100172: Retop:Shotgun:Retop:Hands:transform9
+    100174: Retop:Shotgun:Retop:Shotgun:polySurface3
+    100176: Retop:Strap:Group25431
+    400000: //RootNode
+    400002: polySurface1
+    400004: polySurface2
+    400006: Retop:Hands:Group13980
+    400008: Retop:Head:Head:Group26144
+    400010: Retop:Head:Head:Head:Head:polySurface2
+    400012: Retop:Head:pSphere1
+    400014: Retop:Shotgun:Group13980
+    400016: Retop:Shotgun:Group8
+    400018: Retop:Shotgun:pSphere1
+    400020: Retop:Shotgun:Retop:Hands:Group13980
+    400022: Retop:Shotgun:Retop:Hands:Head
+    400024: Retop:Shotgun:Retop:Hands:HeadTop_End
+    400026: Retop:Shotgun:Retop:Hands:Hips
+    400028: Retop:Shotgun:Retop:Hands:LeftArm
+    400030: Retop:Shotgun:Retop:Hands:LeftFoot
+    400032: Retop:Shotgun:Retop:Hands:LeftForeArm
+    400034: Retop:Shotgun:Retop:Hands:LeftHand
+    400036: Retop:Shotgun:Retop:Hands:LeftHandIndex1
+    400038: Retop:Shotgun:Retop:Hands:LeftHandIndex2
+    400040: Retop:Shotgun:Retop:Hands:LeftHandIndex3
+    400042: Retop:Shotgun:Retop:Hands:LeftHandIndex4
+    400044: Retop:Shotgun:Retop:Hands:LeftHandMiddle1
+    400046: Retop:Shotgun:Retop:Hands:LeftHandMiddle2
+    400048: Retop:Shotgun:Retop:Hands:LeftHandMiddle3
+    400050: Retop:Shotgun:Retop:Hands:LeftHandMiddle4
+    400052: Retop:Shotgun:Retop:Hands:LeftHandPinky1
+    400054: Retop:Shotgun:Retop:Hands:LeftHandPinky2
+    400056: Retop:Shotgun:Retop:Hands:LeftHandPinky3
+    400058: Retop:Shotgun:Retop:Hands:LeftHandPinky4
+    400060: Retop:Shotgun:Retop:Hands:LeftHandRing1
+    400062: Retop:Shotgun:Retop:Hands:LeftHandRing2
+    400064: Retop:Shotgun:Retop:Hands:LeftHandRing3
+    400066: Retop:Shotgun:Retop:Hands:LeftHandRing4
+    400068: Retop:Shotgun:Retop:Hands:LeftHandThumb1
+    400070: Retop:Shotgun:Retop:Hands:LeftHandThumb2
+    400072: Retop:Shotgun:Retop:Hands:LeftHandThumb3
+    400074: Retop:Shotgun:Retop:Hands:LeftHandThumb4
+    400076: Retop:Shotgun:Retop:Hands:LeftLeg
+    400078: Retop:Shotgun:Retop:Hands:LeftShoulder
+    400080: Retop:Shotgun:Retop:Hands:LeftToe_End
+    400082: Retop:Shotgun:Retop:Hands:LeftToeBase
+    400084: Retop:Shotgun:Retop:Hands:LeftUpLeg
+    400086: Retop:Shotgun:Retop:Hands:Neck
+    400088: Retop:Shotgun:Retop:Hands:RightArm
+    400090: Retop:Shotgun:Retop:Hands:RightFoot
+    400092: Retop:Shotgun:Retop:Hands:RightForeArm
+    400094: Retop:Shotgun:Retop:Hands:RightHand
+    400096: Retop:Shotgun:Retop:Hands:RightHandIndex1
+    400098: Retop:Shotgun:Retop:Hands:RightHandIndex2
+    400100: Retop:Shotgun:Retop:Hands:RightHandIndex3
+    400102: Retop:Shotgun:Retop:Hands:RightHandIndex4
+    400104: Retop:Shotgun:Retop:Hands:RightHandMiddle1
+    400106: Retop:Shotgun:Retop:Hands:RightHandMiddle2
+    400108: Retop:Shotgun:Retop:Hands:RightHandMiddle3
+    400110: Retop:Shotgun:Retop:Hands:RightHandMiddle4
+    400112: Retop:Shotgun:Retop:Hands:RightHandPinky1
+    400114: Retop:Shotgun:Retop:Hands:RightHandPinky2
+    400116: Retop:Shotgun:Retop:Hands:RightHandPinky3
+    400118: Retop:Shotgun:Retop:Hands:RightHandPinky4
+    400120: Retop:Shotgun:Retop:Hands:RightHandRing1
+    400122: Retop:Shotgun:Retop:Hands:RightHandRing2
+    400124: Retop:Shotgun:Retop:Hands:RightHandRing3
+    400126: Retop:Shotgun:Retop:Hands:RightHandRing4
+    400128: Retop:Shotgun:Retop:Hands:RightHandThumb1
+    400130: Retop:Shotgun:Retop:Hands:RightHandThumb2
+    400132: Retop:Shotgun:Retop:Hands:RightHandThumb3
+    400134: Retop:Shotgun:Retop:Hands:RightHandThumb4
+    400136: Retop:Shotgun:Retop:Hands:RightLeg
+    400138: Retop:Shotgun:Retop:Hands:RightShoulder
+    400140: Retop:Shotgun:Retop:Hands:RightToe_End
+    400142: Retop:Shotgun:Retop:Hands:RightToeBase
+    400144: Retop:Shotgun:Retop:Hands:RightUpLeg
+    400146: Retop:Shotgun:Retop:Hands:Spine
+    400148: Retop:Shotgun:Retop:Hands:Spine1
+    400150: Retop:Shotgun:Retop:Hands:Spine2
+    400152: Retop:Shotgun:Retop:Hands:transform1
+    400154: Retop:Shotgun:Retop:Hands:transform10
+    400156: Retop:Shotgun:Retop:Hands:transform11
+    400158: Retop:Shotgun:Retop:Hands:transform2
+    400160: Retop:Shotgun:Retop:Hands:transform3
+    400162: Retop:Shotgun:Retop:Hands:transform4
+    400164: Retop:Shotgun:Retop:Hands:transform5
+    400166: Retop:Shotgun:Retop:Hands:transform6
+    400168: Retop:Shotgun:Retop:Hands:transform7
+    400170: Retop:Shotgun:Retop:Hands:transform8
+    400172: Retop:Shotgun:Retop:Hands:transform9
+    400174: Retop:Shotgun:Retop:Shotgun:polySurface3
+    400176: Retop:Strap:Group25431
+    4300000: Retop:Shotgun:Retop:Hands:Group13980
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Retop:Shotgun:Retop:Hands:Group13980
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Retop_Shotgun_defaultMat1
+    second: {fileID: 2100000, guid: 546f3c05eeb445d429ff7913b7bb7825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 428747ae268f8b843bf21de17d2b7cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 15cc79178d2f0ab43b34160d963ac160, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

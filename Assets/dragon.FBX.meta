@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: f73ec28dcda377c43bb7a9b08dfdd122
+timeCreated: 1513272700
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Animation LayerTransform
+    100002: //RootNode
+    100004: English Dragon
+    100006: English DragonHead
+    100008: English DragonHeadBone001
+    100010: English DragonLArm1
+    100012: English DragonLArmCollarbone
+    100014: English DragonLArmDigit11
+    100016: English DragonLArmPalm
+    100018: English DragonLLeg0
+    100020: English DragonLLeg1
+    100022: English DragonLLeg1 1
+    100024: English DragonLLeg2
+    100026: English DragonLLeg3
+    100028: English DragonLLegCollarbone
+    100030: English DragonLLegDigit01
+    100032: English DragonLLegDigit02
+    100034: English DragonLLegDigit11
+    100036: English DragonLLegDigit11 1
+    100038: English DragonLLegDigit12
+    100040: English DragonLLegDigit12 1
+    100042: English DragonLLegDigit13
+    100044: English DragonLLegDigit21
+    100046: English DragonLLegDigit21 1
+    100048: English DragonLLegDigit22
+    100050: English DragonLLegDigit22 1
+    100052: English DragonLLegDigit23
+    100054: English DragonLLegDigit41
+    100056: English DragonLLegDigit42
+    100058: English DragonLLegDigit43
+    100060: English DragonLLegPalm
+    100062: English DragonLLegPalm 1
+    100064: English DragonLLegPlatform
+    100066: English DragonLLegPlatform 1
+    100068: English DragonPelvis
+    100070: English DragonPelvisGizmo
+    100072: English DragonRArm1
+    100074: English DragonRArmCollarbone
+    100076: English DragonRArmDigit11
+    100078: English DragonRArmPalm
+    100080: English DragonRibcage
+    100082: English DragonRibcageGizmo
+    100084: English DragonRLeg1
+    100086: English DragonRLeg1 1
+    100088: English DragonRLeg2
+    100090: English DragonRLeg2 1
+    100092: English DragonRLeg3
+    100094: English DragonRLegCollarbone
+    100096: English DragonRLegDigit01
+    100098: English DragonRLegDigit02
+    100100: English DragonRLegDigit11
+    100102: English DragonRLegDigit11 1
+    100104: English DragonRLegDigit12
+    100106: English DragonRLegDigit12 1
+    100108: English DragonRLegDigit13
+    100110: English DragonRLegDigit21
+    100112: English DragonRLegDigit21 1
+    100114: English DragonRLegDigit22
+    100116: English DragonRLegDigit22 1
+    100118: English DragonRLegDigit23
+    100120: English DragonRLegDigit41
+    100122: English DragonRLegDigit42
+    100124: English DragonRLegDigit43
+    100126: English DragonRLegPalm
+    100128: English DragonRLegPalm 1
+    100130: English DragonRLegPlatform
+    100132: English DragonRLegPlatform 1
+    100134: English DragonSpine1
+    100136: English DragonSpine1 1
+    100138: English DragonSpine2
+    100140: English DragonSpine2 1
+    100142: English DragonSpine3
+    100144: English DragonSpine3 1
+    100146: English DragonSpine4
+    100148: English DragonSpine5
+    100150: English DragonTail1
+    100152: English DragonTail10
+    100154: English DragonTail2
+    100156: English DragonTail3
+    100158: English DragonTail4
+    100160: English DragonTail5
+    100162: English DragonTail6
+    100164: English DragonTail7
+    100166: English DragonTail8
+    100168: English DragonTail9
+    100170: Group001
+    100172: Group004
+    100174: Group005
+    100176: Group006
+    100178: Group007
+    100180: Object001
+    100182: Object002
+    100184: Object002 1
+    100186: Object002_MeshPart0
+    100188: Object002_MeshPart1
+    100190: Object003
+    100192: Object008
+    100194: Object009
+    100196: Object010
+    100198: Object011
+    100200: Object012
+    100202: Object013
+    100204: Object014
+    100206: Object015
+    400000: Animation LayerTransform
+    400002: //RootNode
+    400004: English Dragon
+    400006: English DragonHead
+    400008: English DragonHeadBone001
+    400010: English DragonLArm1
+    400012: English DragonLArmCollarbone
+    400014: English DragonLArmDigit11
+    400016: English DragonLArmPalm
+    400018: English DragonLLeg0
+    400020: English DragonLLeg1
+    400022: English DragonLLeg1 1
+    400024: English DragonLLeg2
+    400026: English DragonLLeg3
+    400028: English DragonLLegCollarbone
+    400030: English DragonLLegDigit01
+    400032: English DragonLLegDigit02
+    400034: English DragonLLegDigit11
+    400036: English DragonLLegDigit11 1
+    400038: English DragonLLegDigit12
+    400040: English DragonLLegDigit12 1
+    400042: English DragonLLegDigit13
+    400044: English DragonLLegDigit21
+    400046: English DragonLLegDigit21 1
+    400048: English DragonLLegDigit22
+    400050: English DragonLLegDigit22 1
+    400052: English DragonLLegDigit23
+    400054: English DragonLLegDigit41
+    400056: English DragonLLegDigit42
+    400058: English DragonLLegDigit43
+    400060: English DragonLLegPalm
+    400062: English DragonLLegPalm 1
+    400064: English DragonLLegPlatform
+    400066: English DragonLLegPlatform 1
+    400068: English DragonPelvis
+    400070: English DragonPelvisGizmo
+    400072: English DragonRArm1
+    400074: English DragonRArmCollarbone
+    400076: English DragonRArmDigit11
+    400078: English DragonRArmPalm
+    400080: English DragonRibcage
+    400082: English DragonRibcageGizmo
+    400084: English DragonRLeg1
+    400086: English DragonRLeg1 1
+    400088: English DragonRLeg2
+    400090: English DragonRLeg2 1
+    400092: English DragonRLeg3
+    400094: English DragonRLegCollarbone
+    400096: English DragonRLegDigit01
+    400098: English DragonRLegDigit02
+    400100: English DragonRLegDigit11
+    400102: English DragonRLegDigit11 1
+    400104: English DragonRLegDigit12
+    400106: English DragonRLegDigit12 1
+    400108: English DragonRLegDigit13
+    400110: English DragonRLegDigit21
+    400112: English DragonRLegDigit21 1
+    400114: English DragonRLegDigit22
+    400116: English DragonRLegDigit22 1
+    400118: English DragonRLegDigit23
+    400120: English DragonRLegDigit41
+    400122: English DragonRLegDigit42
+    400124: English DragonRLegDigit43
+    400126: English DragonRLegPalm
+    400128: English DragonRLegPalm 1
+    400130: English DragonRLegPlatform
+    400132: English DragonRLegPlatform 1
+    400134: English DragonSpine1
+    400136: English DragonSpine1 1
+    400138: English DragonSpine2
+    400140: English DragonSpine2 1
+    400142: English DragonSpine3
+    400144: English DragonSpine3 1
+    400146: English DragonSpine4
+    400148: English DragonSpine5
+    400150: English DragonTail1
+    400152: English DragonTail10
+    400154: English DragonTail2
+    400156: English DragonTail3
+    400158: English DragonTail4
+    400160: English DragonTail5
+    400162: English DragonTail6
+    400164: English DragonTail7
+    400166: English DragonTail8
+    400168: English DragonTail9
+    400170: Group001
+    400172: Group004
+    400174: Group005
+    400176: Group006
+    400178: Group007
+    400180: Object001
+    400182: Object002
+    400184: Object002 1
+    400186: Object002_MeshPart0
+    400188: Object002_MeshPart1
+    400190: Object003
+    400192: Object008
+    400194: Object009
+    400196: Object010
+    400198: Object011
+    400200: Object012
+    400202: Object013
+    400204: Object014
+    400206: Object015
+    2300000: Object001
+    2300002: Object002 1
+    2300004: Object003
+    2300006: Object008
+    2300008: Object009
+    2300010: Object010
+    2300012: Object011
+    2300014: Object012
+    2300016: Object013
+    2300018: Object014
+    2300020: Object015
+    3300000: Object001
+    3300002: Object002 1
+    3300004: Object003
+    3300006: Object008
+    3300008: Object009
+    3300010: Object010
+    3300012: Object011
+    3300014: Object012
+    3300016: Object013
+    3300018: Object014
+    3300020: Object015
+    4300000: Object002_MeshPart0
+    4300002: Object002_MeshPart1
+    4300004: Object003
+    4300006: Object001
+    4300008: Object002
+    4300010: Object008
+    4300012: Object009
+    4300014: Object010
+    4300016: Object011
+    4300018: Object012
+    4300020: Object013
+    4300022: Object014
+    4300024: Object015
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object002_MeshPart0
+    13700002: Object002_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

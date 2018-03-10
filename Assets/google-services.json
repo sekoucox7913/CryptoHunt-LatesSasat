@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "182775792911",
+    "firebase_url": "https://fir-crypto-hunt.firebaseio.com",
+    "project_id": "firebase-crypto-hunt",
+    "storage_bucket": "firebase-crypto-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182775792911:android:5f58b6d9cb8d2a75",
+        "android_client_info": {
+          "package_name": "com.cryptohunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182775792911-ccgnadi5hhb98u5av4tgnitj88cgo3oa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "182775792911-npl5dsbobp54d8o15ei9okbl1uh8c7tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXdLCb4I393f_kNXNtmxlNzNCgEyucuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

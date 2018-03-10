@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8f9a00b18f384cd418dc5821219b861e
+timeCreated: 1516627968
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abolition-Regular
+  fontNames:
+  - Abolition-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dcf1898a5a5e8434091340e412b5757d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
